@@ -22,7 +22,7 @@ Data References: Data/ALL_FILES
 
 ## Data Modeling (ERD)
 <p align="center">
-  <img src="">
+  <img src="https://i.imgur.com/AmnTlrJ.png">
 </p>
 
 ## Data Engineering 
